@@ -21,4 +21,4 @@
 - The data was split into the training and test set at a ration of 80-20.
 - For the data to give accurate data, it needs to be scaled.
 - Thereafter, different machine learning algorithms are applied to the train data in order to come up with the most appropriate classification method.
-- After the different calculations, three methods stood out with an accuracy percentage of 83%. they are therefore recommended for use on the test data
+- After the different calculations, three methods (Logistic Regression,SVM,Decision Tree) stood out with an accuracy percentage of 83%. They are therefore recommended for use on the test data
